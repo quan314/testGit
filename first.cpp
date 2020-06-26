@@ -5,4 +5,6 @@ int main(){
 	int b=6.5;
 	int x=5.999;
 	int z=123;
+
+	int sss;
 }
